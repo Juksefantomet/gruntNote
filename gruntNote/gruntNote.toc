@@ -1,0 +1,9 @@
+## Interface: 70300
+## Title: gruntNote
+## Version: 0.1a
+## Notes: Ingame Notification with sound effects on alert.
+## Author: Juksefantomet
+## Email: Juksefantomet@hotmail.com
+## DefaultState: enabled
+
+gruntNote.lua
