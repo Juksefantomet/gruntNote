@@ -1,3 +1,5 @@
+This addon is currently in test-mode - bugs / more messages then normal might occur.
+<br />
 Grunt Note - a World of Warcraft Addon<br />
 <br />
 /gnote on - turns the addon on (default)<br />
