@@ -1,3 +1,4 @@
+-- Interface version legion: 70300
 -- How to check ingame build for future ref
 -- /run print((select(4, GetBuildInfo())))
 -- keep your mods updated!

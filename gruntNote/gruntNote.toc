@@ -1,4 +1,4 @@
-## Interface: 70300
+## Interface: 11200
 ## Title: gruntNote
 ## Version: 0.1a
 ## Notes: Ingame Notification with sound effects on alert.
